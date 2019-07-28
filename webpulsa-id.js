@@ -1,5 +1,5 @@
 <div style="background:#fff">
-<script language=”text/javascript”>
+<script language="text/javascript">
 
 <!-- begin
 /*
