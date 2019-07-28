@@ -1,6 +1,3 @@
-
-<script language="text/javascript">
-
 <!-- begin
 /*
  *
@@ -109,4 +106,3 @@ setTimeout("jam()",1000);
 var webpulsaid=document.getElementById("webpulsaid"); //get span to apply rainbow
 var myRainbowSpan=new RainbowSpan(webpulsaid, 0, 360, 255, 50, 18);
 myRainbowSpan.timer=window.setInterval("myRainbowSpan.moveRainbow()", myRainbowSpan.speed);
-</script>
