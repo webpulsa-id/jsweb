@@ -88,7 +88,7 @@ jam=""+jam+"";
 menit=""+menit+"";
 detik=""+detik+"";
 if(jam<1)jam=document.write('<h id="webpulsaid">Waktunya tidur nih Bos....</h>');
-if(jam<2)jam=document.write('<h id="webpulsaid">Selamat dini hari Bos, lagi ngeronda ya..??</h>');
+if(jam<2)jam=document.write('<h id="webpulsaid">Selamat dini hari Bos, lagi ngeronda ya. Hi hi.??</h>');
 if(jam<4)jam=document.write('<h id="webpulsaid">Met dini hari baru bangun atau belum tidur Bos..!!</h>');
 if(jam<5)jam=document.write('<h id="webpulsaid">Bangun Pagi itu indah..</h>');
 if(jam<6)jam=document.write('<h id="webpulsaid">Selamat pagi,jangan lupa mandi Bos..!!</h>');
