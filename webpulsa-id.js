@@ -91,7 +91,7 @@ if(jam<5)jam=document.write('<h id="webpulsaid">Bangun Pagi itu indah..</h>');
 if(jam<6)jam=document.write('<h id="webpulsaid">Selamat pagi,jangan lupa mandi Bos..!!</h>');
 if(jam<7)jam=document.write('<h id="webpulsaid">Selamat ber-aktifitas didunia maya Bos..</h>');
 if(jam<8)jam=document.write('<h id="webpulsaid">Selamat pagi, jangan lupa cek saldonya bos, jika sedikit silahkan deposit.!!!</h>');
-if(jam<9)jam=document.write('<h id="webpulsaid">Selamat pagi selamat beraktifitas.!! Bos.</h>');
+if(jam<9)jam=document.write('<h id="webpulsaid">Selamat pagi selamat beraktifitas Bos..</h>');
 if(jam<10)jam=document.write('<h id="webpulsaid">Met pagi menjelang siang Bos . .</h>');
 if(jam<14)jam=document.write('<h id="webpulsaid">Selamat siang, met nyantai tengah hari Bos..??</h>');
 if(jam<15)jam=document.write('<h id="webpulsaid">Selamat siang menjelang sore Bos ku..</h>');
