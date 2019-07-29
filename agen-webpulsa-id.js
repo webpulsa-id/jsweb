@@ -1,7 +1,7 @@
 <!-- begin
 /*
  *
- * This script uses hue rotation in the following manner:
+ * This scripts uses hue rotation in the following manner:
  * hue=0   is red (#FF0000)
  * hue=60  is yellow (#FFFF00)
  * hue=120 is green (#00FF00)
