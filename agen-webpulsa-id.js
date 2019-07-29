@@ -1,6 +1,3 @@
-<div style="background:#fff;border-top:#ff0000 solid">
-<script language="text/javascript">
-
 <!-- begin
 /*
  *
@@ -93,11 +90,11 @@ if(jam<4)jam=document.write('<h id="webpulsaid">Met dini hari baru bangun atau b
 if(jam<5)jam=document.write('<h id="webpulsaid">Bangun Pagi itu indah..</h>');
 if(jam<6)jam=document.write('<h id="webpulsaid">Selamat pagi,jangan lupa mandi Bos..!!</h>');
 if(jam<7)jam=document.write('<h id="webpulsaid">Selamat ber-aktifitas didunia maya Bos..</h>');
-if(jam<8)jam=document.write('<h id="webpulsaid">Selamat pagi, jangan lupa cek saldonya bos, jika sedikit silahkan deposit..!!</h>');
-if(jam<9)jam=document.write('<h id="webpulsaid">Selamat pagi selamat beraktifitas..!! Bos.</h>');
-if(jam<10)jam=document.write('<h id="webpulsaid">Met pagi menjelang siang Bos . .</h>');
-if(jam<14)jam=document.write('<h id="webpulsaid">Selamat siang, met nyantai tengah hari Bos..??</h>');
-if(jam<15)jam=document.write('<h id="webpulsaid">Selamat siang menjelang sore Bos..</h>');
+if(jam<8)jam=document.write('<h id="webpulsaid">Selamat pagi, jangan lupa cek saldonya bos, jika sedikit silahkan deposit.!!!</h>');
+if(jam<9)jam=document.write('<h id="webpulsaid">Selamat pagi selamat beraktifitas Bos..</h>');
+if(jam<10)jam=document.write('<h id="webpulsaid">Met pagi menjelang siang Bos ku..</h>');
+if(jam<14)jam=document.write('<h id="webpulsaid">Selamat siang, met nyantai tengah hari Bos ku..??</h>');
+if(jam<15)jam=document.write('<h id="webpulsaid">Selamat siang menjelang sore Bos ku..</h>');
 if(jam<17)jam=document.write('<h id="webpulsaid">Selamat sore.., waktunya mandi nih Bos..</h>');
 if(jam<18)jam=document.write('<h id="webpulsaid">Selamat petang, met nyantai aja Bos..</h>');
 if(jam<19)jam=document.write('<h id="webpulsaid">Selamat Malam bos, Ayo cari downline baru di facebook..!!!</h>');
@@ -109,4 +106,3 @@ setTimeout("jam()",1000);
 var webpulsaid=document.getElementById("webpulsaid"); //get span to apply rainbow
 var myRainbowSpan=new RainbowSpan(webpulsaid, 0, 360, 255, 50, 18);
 myRainbowSpan.timer=window.setInterval("myRainbowSpan.moveRainbow()", myRainbowSpan.speed);
-</script></div>
