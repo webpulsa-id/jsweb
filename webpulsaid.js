@@ -32,9 +32,9 @@ li[i].style.display = "none";
 		pull_jackpot();
 		var timer;
 		function pull_jackpot() {
-		var nominal = 10083;
-		if (jackpot == 0) jackpot = parseInt(nominal - 19000);
-		var amount = 10000 / delay * 1;
+		var nominal = 15000;
+		if (jackpot == 0) jackpot = parseInt(nominal - 15000);
+		var amount = 15000 / delay * 1;
 		timer = setInterval(function() { jackpot = set_jackpot(jackpot, nominal, amount); }, 1);
 		}
 
