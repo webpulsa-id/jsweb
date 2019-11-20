@@ -1,4 +1,12 @@
-
+body,.post-body,#outer-wrapper,#content-wrapper,#main-wrapper {
+ padding:0px;margin:0px;font-size:14px
+}
+body { background:url(https://3.bp.blogspot.com/-3YQWI66mqco/XZjJdZvPWFI/AAAAAAAAAgw/AuoBlFLb_tomHqVCOoTJzPVeyZoqgyWTwCLcBGAsYHQ/s1600/bg.png)no-repeat scroll;
+background-size: 100% 100% ; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;color:#000
+}
+.post-body {
+ padding:0;margin:0px
+}.post-body td img {float:right;height:25px;width:25px}#kode{font-size:0px;text:none}
 #myInput {
   background-image: url('https://1.bp.blogspot.com/-yETkk8dCImA/XSWw0c6HVkI/AAAAAAAAABo/pi7IDL2Ls8kflndMQNRnYbsEAf6D-aCjwCLcBGAs/s1600/searchicon.png');
   background-position: 10px 12px;
