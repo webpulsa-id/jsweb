@@ -1,4 +1,4 @@
-var url = "https://app-agen-pulsa.blogspot.com/p/app-center-transaksi.html"; // url tujuan
+var url = "https://apps-agen-pulsa.blogspot.com/p/app-center-transaksi.html"; // url tujuan
             var count = 0; // dalam detik
             function countDown() {
                 if (count > 0) {
