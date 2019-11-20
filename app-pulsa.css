@@ -312,26 +312,7 @@ height:87%;
 #kotak-pesan a.close:hover {background:red;color:#fff;}
 .article {margin:10px auto;}
 
-#harga-mitra{display:none}
-#harga-agen{}
-#harga-agen2{display:none}
-#pendaftaran-agen{}
-#pendaftaran-agen2{display:none}
-#set-up{}
-#update-agen{}
-#update-agen2{display:none}
-#update-mitra{display:none}
-#halaman-pendaftaran{}
-#kontak-marketing{display:none}
-#up-100{display:none}
-#up-200{}
-#list-pendaftaran{}
-#share-agen{}
-#share-agen2{display:none}
-#ban-agen{}
-#ban-agen2{display:none}
-#ban-mitra{display:none}
-#info-banner{display:none}
+
 /*delay*\
 @charset "UTF-8";
 
