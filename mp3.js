@@ -15,8 +15,8 @@ jQuery(function($) {
   if (supportsAudio) {
     var index = 0,
       playing = false,
-      mediaPath = "https://archive.org/download/webpulsa/","https://archive.org/download/mythium",
-      extension = "",
+      mediaPath = "https://archive.org/download/webpulsa/",
+      extension = "https://archive.org/download/mythium",
       tracks = [
         {
           track: 1,
