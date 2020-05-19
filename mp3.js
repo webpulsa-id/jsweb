@@ -16,25 +16,25 @@ jQuery(function($) {
     var index = 0,
       playing = false,
       mediaPath = "https://archive.org/download/webpulsa/",
-      extension = "https://archive.org/download/mythium",
+      extension = "",
       tracks = [
         {
           track: 1,
           name: "Aisyah istri rasullulah",
           length: "3:28",
-          file: "Aisya%20istri%20rasulullah%20syakir%20daulay"
+          file: "webpulsa/Aisya%20istri%20rasulullah%20syakir%20daulay"
         },
         {
           track: 2,
           name: "Geisha cinta itu kamu",
           length: "3:34",
-          file: "GEISHA%20-%20Cinta%20Itu%20Kamu"
+          file: "webpulsa/GEISHA%20-%20Cinta%20Itu%20Kamu"
         },
         {
           track: 3,
           name: "All The King's Men - Broadwing Studio (Final Mix)",
           length: "5:02",
-          file: "BS_ATKM"
+          file: "mythium/BS_ATKM"
         },
         {
           track: 4,
