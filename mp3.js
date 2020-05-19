@@ -22,7 +22,7 @@ jQuery(function($) {
           track: 1,
           name: "Aisyah istri rasullulah",
           length: "3:28",
-          file: "aisya-istri-rasulullah-syakir-daulay/Aisya%20istri%20rasulullah%20syakir%20daulay"
+          file: "Aisya%20istri%20rasulullah%20syakir%20daulay"
         },
         {
           track: 2,
