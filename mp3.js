@@ -22,7 +22,7 @@ jQuery(function($) {
           track: 1,
           name: "Aisyah istri rasullulah",
           length: "3:28",
-          file: "https://archive.org/download/aisya-istri-rasulullah-syakir-daulay/Aisya%20istri%20rasulullah%20syakir%20daulay.mp3"
+          file: "https://ia801504.us.archive.org/21/items/aisya-istri-rasulullah-syakir-daulay/Aisya%20istri%20rasulullah%20syakir%20daulay.mp3"
         },
         {
           track: 2,
