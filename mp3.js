@@ -20,9 +20,9 @@ jQuery(function($) {
       tracks = [
         {
           track: 1,
-          name: "All This Is - Joe L.'s Studio",
-          length: "2:46",
-          file: "JLS_ATI"
+          name: "Aisyah istri rasullulah",
+          length: "3:28",
+          file: "https://archive.org/download/aisya-istri-rasulullah-syakir-daulay/Aisya%20istri%20rasulullah%20syakir%20daulay.mp3"
         },
         {
           track: 2,
