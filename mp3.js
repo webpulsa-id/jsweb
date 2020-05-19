@@ -262,14 +262,14 @@ jQuery(function($) {
       audio = $("#audio1")
         .bind("play", function() {
           playing = true;
-          npAction.text("Now Playing...");
+          npAction.text("Memutar...");
         })
         .bind("pause", function() {
           playing = false;
-          npAction.text("Paused...");
+          npAction.text("Berhenti...");
         })
         .bind("ended", function() {
-          npAction.text("Paused...");
+          npAction.text("Berhenti...");
           if (index + 1 < trackCount) {
             index++;
             loadTrack(index);
