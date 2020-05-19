@@ -15,20 +15,20 @@ jQuery(function($) {
   if (supportsAudio) {
     var index = 0,
       playing = false,
-      mediaPath = "https://archive.org/download/mythium/",
+      mediaPath = "https://archive.org/download/webpulsa/",
       extension = "",
       tracks = [
         {
           track: 1,
           name: "Aisyah istri rasullulah",
           length: "3:28",
-          file: "https://ia801504.us.archive.org/21/items/aisya-istri-rasulullah-syakir-daulay/Aisya%20istri%20rasulullah%20syakir%20daulay.mp3"
+          file: "aisya-istri-rasulullah-syakir-daulay/Aisya%20istri%20rasulullah%20syakir%20daulay"
         },
         {
           track: 2,
-          name: "The Forsaken - Broadwing Studio (Final Mix)",
-          length: "8:31",
-          file: "BS_TF"
+          name: "Geisha cinta itu kamu",
+          length: "3:34",
+          file: "GEISHA%20-%20Cinta%20Itu%20Kamu"
         },
         {
           track: 3,
