@@ -32,27 +32,28 @@ jQuery(function($) {
         },
         {
           track: 3,
-          name: "All The King's Men - Broadwing Studio (Final Mix)",
-          length: "5:02",
-          file: "mythium/BS_ATKM"
+          name: "Warlan Sukandar Ujian akhir zaman",
+          length: "6:21",
+          file: "warlan-sukandar-ujian-akhir-zaman/Warlan%20Sukandar%20-%20Ujian%20akhir%20zaman.mp3"
         },
         {
           track: 4,
-          name: "The Forsaken - Broadwing Studio (First Mix)",
-          length: "8:32",
-          file: "BSFM_TF"
+          name: "Ipank & Kintani Sangkutan Hati",
+          length: "5:07",
+          file: "ipankkintanisangkutanhati_201912/Ipank%20%26%20Kintani%20-%20Sangkutan%20Hati.mp3"
         },
         {
           track: 5,
-          name: "All The King's Men - Broadwing Studio (First Mix)",
-          length: "5:05",
-          file: "BSFM_ATKM"
+          name: "Thomas arya ft Elsa pitaloka - Satu Hati Sampai Mati
+download",
+          length: "5:45",
+          file: "ThomasArya-17April2020/Thomas%20arya%20ft%20Elsa%20pitaloka%20-%20Satu%20Hati%20Sampai%20Mati.mp3"
         },
         {
           track: 6,
-          name: "All This Is - Alternate Cuts",
-          length: "2:49",
-          file: "AC_ATI"
+          name: "Thomas arya - kecewa dalam setia",
+          length: "5:34",
+          file: "ThomasArya-17April2020/Thomas%20arya%20_%20kecewa%20dalam%20setia_slowrock%20terbaru%20cover%20liryk%20musik%20%28cover%29.mp3"
         },
         {
           track: 7,
