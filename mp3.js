@@ -44,8 +44,7 @@ jQuery(function($) {
         },
         {
           track: 5,
-          name: "Thomas arya ft Elsa pitaloka - Satu Hati Sampai Mati
-download",
+          name: "Thomas arya ft Elsa pitaloka - Satu Hati Sampai Mati",
           length: "5:45",
           file: "ThomasArya-17April2020/Thomas%20arya%20ft%20Elsa%20pitaloka%20-%20Satu%20Hati%20Sampai%20Mati"
         },
