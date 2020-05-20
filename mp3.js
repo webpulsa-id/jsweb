@@ -9,7 +9,7 @@ b.setAttribute("data-platform", navigator.platform);
 
 // HTML5 audio player + playlist controls...
 // Inspiration: http://jonhall.info/how_to/create_a_playlist_for_html5_audio
-// Mythium Archive: https://archive.org/details/
+// Mythium Archive: https://archive.org/details/mythium/
 jQuery(function($) {
   var supportsAudio = !!document.createElement("audio").canPlayType;
   if (supportsAudio) {
@@ -263,14 +263,14 @@ download",
       audio = $("#audio1")
         .bind("play", function() {
           playing = true;
-          npAction.text("Memutar...");
+          npAction.text("Now Playing...");
         })
         .bind("pause", function() {
           playing = false;
-          npAction.text("Berhenti...");
+          npAction.text("Paused...");
         })
         .bind("ended", function() {
-          npAction.text("Berhenti...");
+          npAction.text("Paused...");
           if (index + 1 < trackCount) {
             index++;
             loadTrack(index);
