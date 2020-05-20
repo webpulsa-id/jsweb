@@ -9,7 +9,7 @@
 .container {
   position: relative;
   margin: 0 auto;
-  width: 700px;
+  width: 100%;
 }
 .column {
   width: inherit;
@@ -257,7 +257,7 @@ a[id^="btn"]::-moz-focus-inner {
 
 /* IE 9 */
 html[data-useragent*="MSIE 9.0"] audio {
-  margin-left: 0px;
+  margin-left: 9px;
   outline: none;
   width: 680px;
 }
@@ -283,7 +283,7 @@ html[data-useragent*="MSIE 9.0"] .plSel:hover {
 
 /* IE 10 */
 html[data-useragent*="MSIE 10.0"] audio {
-  margin-left: 0px;
+  margin-left: 6px;
   width: 687px;
 }
 html[data-useragent*="MSIE 10.0"] #audiowrap {
@@ -308,7 +308,7 @@ html[data-useragent*="MSIE 10.0"] .plSel:hover {
 
 /* IE 11 */
 html[data-useragent*="rv:11.0"] audio {
-  margin-left: 0px;
+  margin-left: 2px;
   width: 695px;
 }
 html[data-useragent*="rv:11.0"] #audiowrap {
@@ -361,7 +361,7 @@ html[data-useragent*="OS 7"] body {
   color: #373837;
 }
 html[data-useragent*="OS 7"] audio {
-  margin-left: 0px;
+  margin-left: 3px;
   width: 690px;
 }
 html[data-useragent*="OS 7"] #audiowrap {
@@ -390,7 +390,7 @@ html[data-useragent*="OS 8"] body {
   color: #373837;
 }
 html[data-useragent*="OS 8"] audio {
-  margin-left: 0px;
+  margin-left: 6px;
   width: 694px;
 }
 html[data-useragent*="OS 8"] #audiowrap {
@@ -448,7 +448,7 @@ html[data-useragent*="Chrome"] body {
   color: #5a5a5a;
 }
 html[data-useragent*="Chrome"] audio {
-  margin-left: 0px;
+  margin-left: 9px;
   width: 677px;
 }
 html[data-useragent*="Chrome"] #audiowrap {
@@ -477,7 +477,7 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] body {
   color: #373837;
 }
 html[data-useragent*="Chrome"][data-useragent*="Android"] audio {
-  margin-left: 0px;
+  margin-left: 4px;
   width: 689px;
 }
 html[data-useragent*="Chrome"][data-useragent*="Android"] #audiowrap {
@@ -531,7 +531,7 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] .plSel:hover {
     width: 533px;
   }
   html[data-useragent*="Chrome"][data-useragent*="Android"] audio {
-    margin-left: 0px;
+    margin-left: 4px;
     width: 545px;
   }
 }
@@ -563,7 +563,7 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] .plSel:hover {
     width: 397px;
   }
   html[data-useragent*="Chrome"][data-useragent*="Mobile"] audio {
-    margin-left: 0px;
+    margin-left: 4px;
     width: 410px;
   }
   #npTitle {
@@ -598,7 +598,7 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] .plSel:hover {
     width: 277px;
   }
   html[data-useragent*="Chrome"][data-useragent*="Mobile"] audio {
-    margin-left: 0px;
+    margin-left: 4px;
     width: 290px;
   }
   #npTitle {
