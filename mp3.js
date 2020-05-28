@@ -129,67 +129,67 @@ jQuery(function($) {
         {
           track: 19,
           file:"religi-terbaik/file_1585493552477",
-          title: "Rohman Ya Rohman",
+          name: "Rohman Ya Rohman",
           length: "Religi Terbaik"
         },
         {
           track: 20,
           file:"religi-terbaik/file_1585493567823",
-          title: "Sa'duna Fiddunya",
+          name: "Sa'duna Fiddunya",
           length: "Religi Terbaik"
         },
         {
           track: 21,
           file:"religi-terbaik/file_1585493583797",
-          title: "Sholawat Nariyah",
+          name: "Sholawat Nariyah",
           length: "Religi Terbaik"
         },
         {
           track: 22,
           file:"religi-terbaik/file_1585493596933",
-          title: "Sholawat Tasmauni Robbah",
+          name: "Sholawat Tasmauni Robbah",
           length: "Religi Terbaik"
         },
         {
           track: 23,
           file:"religi-terbaik/file_1585493609407",
-          title: "Shooq",
+          name: "Shooq",
           length: "Religi Terbaik"
         },
         {
           track: 24,
           file:"religi-terbaik/file_1585493621721",
-          title: "Wahisna",
+          name: "Wahisna",
           length: "Neng Nada"
         },
         {
           track: 25,
           file:"religi-terbaik/file_1585493656215",
-          title: "Ya Asyiqol Musthofa",
+          name: "Ya Asyiqol Musthofa",
           length: "Religi Terbaik"
         },
         {
           track: 26,
           file:"religi-terbaik/file_1585493676555",
-          title: "Ya Ayyuhannabi",
+          name: "Ya Ayyuhannabi",
           length: "Religi Terbaik"
         },
         {
           track: 27,
           file:"religi-terbaik/file_1585493689005",
-          title: "Ya Badrotim",
+          name: "Ya Badrotim",
           length: "Religi Terbaik"
         },
         {
           track: 28,
           file:"religi-terbaik/file_1585493701684",
-          title: "Ya Syahidan",
+          name: "Ya Syahidan",
           length: "Religi Terbaik"
         },
         {
           track: 29,
           file:"religi-terbaik/file_1585493715283",
-          title: "Yasir Lanaa",
+          name: "Yasir Lanaa",
           length: "Religi Terbaik"
         }
       ],
