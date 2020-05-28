@@ -159,7 +159,7 @@ jQuery(function($) {
             trackNumber +
             '.</div><div class="plTitle">' +
             trackName +
-            '</div><br/><div class="plLength">' +
+            '</div><div class="plLength">' +
             trackLength +
             "</div></div></li>"
         );
