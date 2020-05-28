@@ -56,186 +56,95 @@ jQuery(function($) {
         },
         {
           track: 7,
-          name: "All The King's Men (Take 1) - Alternate Cuts",
-          length: "5:45",
-          file: "AC_ATKMTake_1"
+          name: "Adfaita - Religi Terbaik",
+          length: "###",
+          file: "religi-terbaik/file_1585493738605"
         },
         {
           track: 8,
-          name: "All The King's Men (Take 2) - Alternate Cuts",
-          length: "5:27",
-          file: "AC_ATKMTake_2"
+          name: "Aisyah Istri Rasulullah",
+          length: "###",
+          file: "religi-terbaik/file_1585493768362"
         },
         {
           track: 9,
-          name: "Magus - Alternate Cuts",
-          length: "5:46",
-          file: "AC_M"
+          name: "Nissa - Aisyah Istri Rasulullah",
+          length: "###",
+          file: "religi-terbaik/file_1585493782621"
         },
         {
           track: 10,
-          name: "The State Of Wearing Address (fucked up) - Alternate Cuts",
-          length: "5:25",
-          file: "AC_TSOWAfucked_up"
+          name: "Ai khodijah - Allahumma Labbaik",
+          length: "###",
+          file: "religi-terbaik/file_1585493796674"
         },
         {
           track: 11,
-          name: "Magus - Popeye's (New Years '04 - '05)",
-          length: "5:54",
-          file: "PNY04-05_M"
+          name: "Allahummarhamna Bil Qur'an",
+          length: "###",
+          file: "religi-terbaik/file_1585493819949"
         },
         {
           track: 12,
-          name: "On The Waterfront - Popeye's (New Years '04 - '05)",
-          length: "4:41",
-          file: "PNY04-05_OTW"
+          name: "Religi - Antasallam",
+          length: "###",
+          file: "religi-terbaik/file_1585493839555"
         },
         {
           track: 13,
-          name: "Trance - Popeye's (New Years '04 - '05)",
-          length: "13:17",
-          file: "PNY04-05_T"
+          name: "##",
+          length: "###",
+          file: "religi-terbaik/44444"
         },
         {
           track: 14,
-          name: "The Forsaken - Popeye's (New Years '04 - '05)",
-          length: "8:13",
-          file: "PNY04-05_TF"
+          name: "##",
+          length: "###",
+          file: "religi-terbaik/44444"
         },
         {
           track: 15,
-          name: "The State Of Wearing Address - Popeye's (New Years '04 - '05)",
-          length: "7:03",
-          file: "PNY04-05_TSOWA"
+          name: "##",
+          length: "###",
+          file: "religi-terbaik/44444"
         },
         {
           track: 16,
-          name: "Magus - Popeye's (Valentine's Day '05)",
-          length: "5:44",
-          file: "PVD_M"
+          name: "##",
+          length: "###",
+          file: "religi-terbaik/44444"
         },
         {
           track: 17,
-          name: "Trance - Popeye's (Valentine's Day '05)",
-          length: "10:47",
-          file: "PVD_T"
+          name: "##",
+          length: "###",
+          file: "religi-terbaik/44444"
         },
         {
           track: 18,
-          name: "The State Of Wearing Address - Popeye's (Valentine's Day '05)",
-          length: "5:37",
-          file: "PVD_TSOWA"
+          name: "##",
+          length: "###",
+          file: "religi-terbaik/44444"
         },
         {
           track: 19,
-          name: "All This Is - Smith St. Basement (01/08/04)",
-          length: "2:49",
-          file: "SSB01_08_04_ATI"
+          name: "##",
+          length: "###",
+          file: "religi-terbaik/44444"
         },
         {
           track: 20,
-          name: "Magus - Smith St. Basement (01/08/04)",
-          length: "5:46",
-          file: "SSB01_08_04_M"
+          name: "##",
+          length: "###",
+          file: "religi-terbaik/44444"
         },
         {
-          track: 21,
-          name: "Beneath The Painted Eye - Smith St. Basement (06/06/03)",
-          length: "13:08",
-          file: "SSB06_06_03_BTPE"
-        },
-        {
-          track: 22,
-          name: "Innocence - Smith St. Basement (06/06/03)",
-          length: "5:16",
-          file: "SSB06_06_03_I"
-        },
-        {
-          track: 23,
-          name: "Magus - Smith St. Basement (06/06/03)",
-          length: "5:47",
-          file: "SSB06_06_03_M"
-        },
-        {
-          track: 24,
-          name: "Madness Explored - Smith St. Basement (06/06/03)",
-          length: "4:52",
-          file: "SSB06_06_03_ME"
-        },
-        {
-          track: 25,
-          name: "The Forsaken - Smith St. Basement (06/06/03)",
-          length: "8:44",
-          file: "SSB06_06_03_TF"
-        },
-        {
-          track: 26,
-          name: "All This Is - Smith St. Basement (12/28/03)",
-          length: "3:01",
-          file: "SSB12_28_03_ATI"
-        },
-        {
-          track: 27,
-          name: "Magus - Smith St. Basement (12/28/03)",
-          length: "6:10",
-          file: "SSB12_28_03_M"
-        },
-        {
-          track: 28,
-          name: "Madness Explored - Smith St. Basement (12/28/03)",
-          length: "5:06",
-          file: "SSB12_28_03_ME"
-        },
-        {
-          track: 29,
-          name: "Trance - Smith St. Basement (12/28/03)",
-          length: "12:33",
-          file: "SSB12_28_03_T"
-        },
-        {
-          track: 30,
-          name: "The Forsaken - Smith St. Basement (12/28/03)",
-          length: "8:57",
-          file: "SSB12_28_03_TF"
-        },
-        {
-          track: 31,
-          name: "All This Is (Take 1) - Smith St. Basement (Nov. '03)",
-          length: "4:55",
-          file: "SSB___11_03_ATITake_1"
-        },
-        {
-          track: 32,
-          name: "All This Is (Take 2) - Smith St. Basement (Nov. '03)",
-          length: "5:46",
-          file: "SSB___11_03_ATITake_2"
-        },
-        {
-          track: 33,
-          name:
-            "Beneath The Painted Eye (Take 1) - Smith St. Basement (Nov. '03)",
-          length: "14:06",
-          file: "SSB___11_03_BTPETake_1"
-        },
-        {
-          track: 34,
-          name:
-            "Beneath The Painted Eye (Take 2) - Smith St. Basement (Nov. '03)",
-          length: "13:26",
-          file: "SSB___11_03_BTPETake_2"
-        },
-        {
-          track: 35,
-          name: "The Forsaken (Take 1) - Smith St. Basement (Nov. '03)",
-          length: "8:38",
-          file: "SSB___11_03_TFTake_1"
-        },
-        {
-          track: 36,
-          name: "The Forsaken (Take 2) - Smith St. Basement (Nov. '03)",
-          length: "8:37",
-          file: "SSB___11_03_TFTake_2"
+          track: ##,
+          name: "##",
+          length: "###",
+          file: "religi-terbaik/44444"
         }
+
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
         var trackNumber = value.track,
