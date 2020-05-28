@@ -20,9 +20,9 @@ jQuery(function($) {
       tracks = [
         {
           track: 1,
-          name: "Aisyah istri rasullulah",
-          length: "Religi Terbaik",
-          file: "webpulsa/Aisya%20istri%20rasulullah%20syakir%20daulay"
+          file: "religi-terbaik/file_1585493738605",
+          name: "Adfaita",
+          length: "Religi Terbaik"
         },
         {
           track: 2,
@@ -56,9 +56,9 @@ jQuery(function($) {
         },
         {
           track: 7,
-          file: "religi-terbaik/file_1585493738605",
-          name: "Adfaita",
-          length: "Religi Terbaik"
+          name: "Aisyah istri rasullulah",
+          length: "Religi Terbaik",
+          file: "webpulsa/Aisya%20istri%20rasulullah%20syakir%20daulay"
         },
         {
           track: 8,
@@ -125,7 +125,73 @@ jQuery(function($) {
           file: "religi-terbaik/file_1586050477637",
           name: "Aisyah Istri Rasulullah",
           length: "Cover Syakir Daulay"
-          }
+          },
+        {
+          track: 19,
+          file:"religi-terbaik/file_1585493552477",
+          title: "Rohman Ya Rohman",
+          length: "Religi Terbaik"
+        },
+        {
+          track: 20,
+          file:"religi-terbaik/file_1585493567823",
+          title: "Sa'duna Fiddunya",
+          length: "Religi Terbaik"
+        },
+        {
+          track: 21,
+          file:"religi-terbaik/file_1585493583797",
+          title: "Sholawat Nariyah",
+          length: "Religi Terbaik"
+        },
+        {
+          track: 22,
+          file:"religi-terbaik/file_1585493596933",
+          title: "Sholawat Tasmauni Robbah",
+          length: "Religi Terbaik"
+        },
+        {
+          track: 23,
+          file:"religi-terbaik/file_1585493609407",
+          title: "Shooq",
+          length: "Religi Terbaik"
+        },
+        {
+          track: 24,
+          file:"religi-terbaik/file_1585493621721",
+          title: "Wahisna",
+          length: "Neng Nada"
+        },
+        {
+          track: 25,
+          file:"religi-terbaik/file_1585493656215",
+          title: "Ya Asyiqol Musthofa",
+          length: "Religi Terbaik"
+        },
+        {
+          track: 26,
+          file:"religi-terbaik/file_1585493676555",
+          title: "Ya Ayyuhannabi",
+          length: "Religi Terbaik"
+        },
+        {
+          track: 27,
+          file:"religi-terbaik/file_1585493689005",
+          title: "Ya Badrotim",
+          length: "Religi Terbaik"
+        },
+        {
+          track: 28,
+          file:"religi-terbaik/file_1585493701684",
+          title: "Ya Syahidan",
+          length: "Religi Terbaik"
+        },
+        {
+          track: 29,
+          file:"religi-terbaik/file_1585493715283",
+          title: "Yasir Lanaa",
+          length: "Religi Terbaik"
+        }
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
         var trackNumber = value.track,
