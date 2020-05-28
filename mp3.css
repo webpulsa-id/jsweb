@@ -10,8 +10,6 @@
   position: relative;
   margin: 0 auto;
   width: 100%;
-  position:fixed;
-  bottom:0px;
 }
 .column {
   width: inherit;
@@ -190,11 +188,12 @@ audio {
   margin: 0;
   padding: 21px;
   text-align: right;
-  font-size:12px
+  font-size:13px
 }
 #npAction {
   padding: 21px;
   position: absolute;
+  font-size:13px
 }
 #plList {
   margin: 0;
