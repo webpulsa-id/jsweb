@@ -21,129 +21,111 @@ jQuery(function($) {
         {
           track: 1,
           name: "Aisyah istri rasullulah",
-          length: "3:28",
+          length: "Religi Terbaik",
           file: "webpulsa/Aisya%20istri%20rasulullah%20syakir%20daulay"
         },
         {
           track: 2,
-          name: "Geisha cinta itu kamu",
-          length: "3:34",
+          name: "cinta itu kamu",
+          length: "Geisha",
           file: "webpulsa/GEISHA%20-%20Cinta%20Itu%20Kamu"
         },
         {
           track: 3,
-          name: "Warlan Sukandar Ujian akhir zaman",
-          length: "6:21",
+          name: "Ujian akhir zaman",
+          length: "Warlan Sukandar",
           file: "warlan-sukandar-ujian-akhir-zaman/Warlan%20Sukandar%20-%20Ujian%20akhir%20zaman"
         },
         {
           track: 4,
-          name: "Ipank & Kintani Sangkutan Hati",
-          length: "5:07",
+          name: "Sangkutan Hati",
+          length: "Ipank & Kintani",
           file: "ipankkintanisangkutanhati_201912/Ipank%20%26%20Kintani%20-%20Sangkutan%20Hati"
         },
         {
           track: 5,
-          name: "Thomas arya ft Elsa pitaloka - Satu Hati Sampai Mati",
-          length: "5:45",
+          name: "Satu Hati Sampai Mati",
+          length: "Thomas arya ft Elsa pitaloka",
           file: "ThomasArya-17April2020/Thomas%20arya%20ft%20Elsa%20pitaloka%20-%20Satu%20Hati%20Sampai%20Mati"
         },
         {
           track: 6,
-          name: "Thomas arya - kecewa dalam setia",
-          length: "5:34",
+          name: "kecewa dalam setia",
+          length: "Thomas arya",
           file: "ThomasArya-17April2020/Thomas%20arya%20_%20kecewa%20dalam%20setia_slowrock%20terbaru%20cover%20liryk%20musik%20%28cover%29"
         },
         {
           track: 7,
-          name: "Adfaita - Religi Terbaik",
-          length: "wakotu",
-          file: "religi-terbaik/file_1585493738605"
+          file: "religi-terbaik/file_1585493738605.mp3"
+          name: "Adfaita"
+          length: "Religi Terbaik"
         },
         {
           track: 8,
-          name: "Aisyah Istri Rasulullah",
-          length: "wakotu",
-          file: "religi-terbaik/file_1585493768362"
+          file: "religi-terbaik/file_1585493768362.mp3"
+          name: "Aisyah Istri Rasulullah"
+          length: "Nissa"
         },
         {
           track: 9,
-          name: "Nissa - Aisyah Istri Rasulullah",
-          length: "wakotu",
-          file: "religi-terbaik/file_1585493782621"
+          file: "religi-terbaik/file_1585493782621.mp3"
+          name: "Aisyah Istri Rasulullah"
+          length: "Ai Khodijah"
         },
         {
           track: 10,
-          name: "Ai khodijah - Allahumma Labbaik",
-          length: "wakotu",
-          file: "religi-terbaik/file_1585493796674"
+          file: "religi-terbaik/file_1585493796674.mp3"
+          name: "Allahumma Labbaik"
+          length: "Religi Terbaik"
         },
         {
           track: 11,
-          name: "Allahummarhamna Bil Qur'an",
-          length: "wakotu",
-          file: "religi-terbaik/file_1585493819949"
+          file: "religi-terbaik/file_1585493819949.mp3"
+          name: "Allahummarhamna Bil Qur'an"
+          length: "Religi Terbaik"
         },
         {
           track: 12,
-          name: "Religi - Antasallam",
-          length: "wakotu",
-          file: "religi-terbaik/file_1585493839555"
+          file: "religi-terbaik/file_1585493839555.mp3"
+          name: "Antasallam"
+          length: "Religi Terbaik"
         },
         {
           track: 13,
-          name: "namofile",
-          length: "wakotu",
-          file: "religi-terbaik/44444"
+          file: "religi-terbaik/file_1585493851497.mp3"
+          name: "Busyro Lana"
+          length: "Religi Terbaik"
         },
         {
           track: 14,
-          name: "namofile",
-          length: "wakotu",
-          file: "religi-terbaik/44444"
+          file: "religi-terbaik/file_1585493867017.mp3"
+          name: "I'tiraf"
+          length: "Religi Terbaik"
         },
         {
           track: 15,
-          name: "namofile",
-          length: "wakotu",
-          file: "religi-terbaik/44444"
+          file: "religi-terbaik/file_1585493879730.mp3"
+          name: "Laa ilaha illa Allaah"
+          length: "Religi Terbaik"
         },
         {
           track: 16,
-          name: "namofile",
-          length: "wakotu",
-          file: "religi-terbaik/44444"
+          file: "religi-terbaik/file_1585493893420.mp3"
+          name: "Man Ana"
+          length: "Religi Terbaik"
         },
         {
           track: 17,
-          name: "namofile",
-          length: "wakotu",
-          file: "religi-terbaik/44444"
+          file: "religi-terbaik/file_1585493906775.mp3"
+          name: "Muhammad Nabina"
+          length: "Religi Terbaik"
         },
         {
           track: 18,
-          name: "namofile",
-          length: "wakotu",
-          file: "religi-terbaik/44444"
-        },
-        {
-          track: 19,
-          name: "namofile",
-          length: "wakotu",
-          file: "religi-terbaik/44444"
-        },
-        {
-          track: 20,
-          name: "namofile",
-          length: "wakotu",
-          file: "religi-terbaik/44444"
-        },
-        {
-          track: 21,
-          name: "namofile",
-          length: "wakotu",
-          file: "religi-terbaik/44444"
-        }
+          file: "religi-terbaik/file_1586050477637.mp3"
+          name: "Aisyah Istri Rasulullah"
+          length: "Cover Syakir Daulay"
+          }
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
         var trackNumber = value.track,
