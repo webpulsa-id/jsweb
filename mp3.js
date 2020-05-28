@@ -56,74 +56,74 @@ jQuery(function($) {
         },
         {
           track: 7,
-          file: "religi-terbaik/file_1585493738605.mp3"
-          name: "Adfaita"
+          file: "religi-terbaik/file_1585493738605.mp3",
+          name: "Adfaita",
           length: "Religi Terbaik"
         },
         {
           track: 8,
-          file: "religi-terbaik/file_1585493768362.mp3"
-          name: "Aisyah Istri Rasulullah"
+          file: "religi-terbaik/file_1585493768362.mp3",
+          name: "Aisyah Istri Rasulullah",
           length: "Nissa"
         },
         {
           track: 9,
-          file: "religi-terbaik/file_1585493782621.mp3"
-          name: "Aisyah Istri Rasulullah"
+          file: "religi-terbaik/file_1585493782621.mp3",
+          name: "Aisyah Istri Rasulullah",
           length: "Ai Khodijah"
         },
         {
           track: 10,
-          file: "religi-terbaik/file_1585493796674.mp3"
-          name: "Allahumma Labbaik"
+          file: "religi-terbaik/file_1585493796674.mp3",
+          name: "Allahumma Labbaik",
           length: "Religi Terbaik"
         },
         {
           track: 11,
-          file: "religi-terbaik/file_1585493819949.mp3"
-          name: "Allahummarhamna Bil Qur'an"
+          file: "religi-terbaik/file_1585493819949.mp3",
+          name: "Allahummarhamna Bil Qur'an",
           length: "Religi Terbaik"
         },
         {
           track: 12,
-          file: "religi-terbaik/file_1585493839555.mp3"
-          name: "Antasallam"
+          file: "religi-terbaik/file_1585493839555.mp3",
+          name: "Antasallam",
           length: "Religi Terbaik"
         },
         {
           track: 13,
-          file: "religi-terbaik/file_1585493851497.mp3"
-          name: "Busyro Lana"
+          file: "religi-terbaik/file_1585493851497.mp3",
+          name: "Busyro Lana",
           length: "Religi Terbaik"
         },
         {
           track: 14,
-          file: "religi-terbaik/file_1585493867017.mp3"
-          name: "I'tiraf"
+          file: "religi-terbaik/file_1585493867017.mp3",
+          name: "I'tiraf",
           length: "Religi Terbaik"
         },
         {
           track: 15,
-          file: "religi-terbaik/file_1585493879730.mp3"
-          name: "Laa ilaha illa Allaah"
+          file: "religi-terbaik/file_1585493879730.mp3",
+          name: "Laa ilaha illa Allaah",
           length: "Religi Terbaik"
         },
         {
           track: 16,
-          file: "religi-terbaik/file_1585493893420.mp3"
-          name: "Man Ana"
+          file: "religi-terbaik/file_1585493893420.mp3",
+          name: "Man Ana",
           length: "Religi Terbaik"
         },
         {
           track: 17,
-          file: "religi-terbaik/file_1585493906775.mp3"
-          name: "Muhammad Nabina"
+          file: "religi-terbaik/file_1585493906775.mp3",
+          name: "Muhammad Nabina",
           length: "Religi Terbaik"
         },
         {
           track: 18,
-          file: "religi-terbaik/file_1586050477637.mp3"
-          name: "Aisyah Istri Rasulullah"
+          file: "religi-terbaik/file_1586050477637.mp3",
+          name: "Aisyah Istri Rasulullah",
           length: "Cover Syakir Daulay"
           }
       ],
