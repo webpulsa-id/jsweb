@@ -57,94 +57,93 @@ jQuery(function($) {
         {
           track: 7,
           name: "Adfaita - Religi Terbaik",
-          length: "###",
+          length: "wakotu",
           file: "religi-terbaik/file_1585493738605"
         },
         {
           track: 8,
           name: "Aisyah Istri Rasulullah",
-          length: "###",
+          length: "wakotu",
           file: "religi-terbaik/file_1585493768362"
         },
         {
           track: 9,
           name: "Nissa - Aisyah Istri Rasulullah",
-          length: "###",
+          length: "wakotu",
           file: "religi-terbaik/file_1585493782621"
         },
         {
           track: 10,
           name: "Ai khodijah - Allahumma Labbaik",
-          length: "###",
+          length: "wakotu",
           file: "religi-terbaik/file_1585493796674"
         },
         {
           track: 11,
           name: "Allahummarhamna Bil Qur'an",
-          length: "###",
+          length: "wakotu",
           file: "religi-terbaik/file_1585493819949"
         },
         {
           track: 12,
           name: "Religi - Antasallam",
-          length: "###",
+          length: "wakotu",
           file: "religi-terbaik/file_1585493839555"
         },
         {
           track: 13,
-          name: "##",
-          length: "###",
+          name: "namofile",
+          length: "wakotu",
           file: "religi-terbaik/44444"
         },
         {
           track: 14,
-          name: "##",
-          length: "###",
+          name: "namofile",
+          length: "wakotu",
           file: "religi-terbaik/44444"
         },
         {
           track: 15,
-          name: "##",
-          length: "###",
+          name: "namofile",
+          length: "wakotu",
           file: "religi-terbaik/44444"
         },
         {
           track: 16,
-          name: "##",
-          length: "###",
+          name: "namofile",
+          length: "wakotu",
           file: "religi-terbaik/44444"
         },
         {
           track: 17,
-          name: "##",
-          length: "###",
+          name: "namofile",
+          length: "wakotu",
           file: "religi-terbaik/44444"
         },
         {
           track: 18,
-          name: "##",
-          length: "###",
+          name: "namofile",
+          length: "wakotu",
           file: "religi-terbaik/44444"
         },
         {
           track: 19,
-          name: "##",
-          length: "###",
+          name: "namofile",
+          length: "wakotu",
           file: "religi-terbaik/44444"
         },
         {
           track: 20,
-          name: "##",
-          length: "###",
+          name: "namofile",
+          length: "wakotu",
           file: "religi-terbaik/44444"
         },
         {
-          track: ##,
-          name: "##",
-          length: "###",
+          track: 21,
+          name: "namofile",
+          length: "wakotu",
           file: "religi-terbaik/44444"
         }
-
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
         var trackNumber = value.track,
