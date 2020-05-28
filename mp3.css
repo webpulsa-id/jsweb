@@ -223,11 +223,10 @@ audio {
   width: 25px;
 }
 .plLength {
-  font-size: 8px;
+  font-size: 14px;
   padding-left: 40px;
   position: relative;
-  bottom: 0;
-  padding-top: -8px
+  padding-top: -20px
 }
 .plSel,
 .plSel:hover {
