@@ -165,7 +165,7 @@ p a:visited {
 /* Default / Desktop / Firefox */
 audio {
   margin: 0 15px 0 14px;
-  width: 670px;
+  width: 60%;
 }
 #mainwrap {
   box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.25);
@@ -186,12 +186,17 @@ audio {
 }
 #npTitle {
   margin: 0;
-  padding: 21px;
+  padding: 10px;
   text-align: right;
-  font-size:13px
+  font-size:13px;
+    overflow: hidden;
+  right: 65px;
+  text-overflow: ellipsis;
+  top: 0;
+  white-space: nowrap;
 }
 #npAction {
-  padding: 21px;
+  padding: 10px;
   position: absolute;
   font-size:13px
 }
@@ -203,15 +208,16 @@ audio {
   cursor: pointer;
   display: block;
   margin: 0;
-  padding: 21px 0;
+  padding: 10px 0;
 }
 #plList li:hover {
-  background-color: #262223;
+  background-color: #262223 ;
 }
 .plItem {
   position: relative;
 }
 .plTitle {
+  font-size: 18px;
   left: 50px;
   overflow: hidden;
   position: absolute;
@@ -240,9 +246,10 @@ a[id^="btn"] {
   color: #c8c7c8;
   cursor: pointer;
   display: inline-block;
-  font-size: 50px;
+  font-size: 30px;
   margin: 0;
-  padding: 21px 27px;
+  padding: 2px 2px;
+  margin:2px 3px -5px 3px;
   text-decoration: none;
 }
 a[id^="btn"]:last-child {
@@ -684,15 +691,16 @@ ul.tabs {
 
 .content ul {
     margin:0px;
-    padding:0px 20px 0px 20px;
+    padding:0px;
 }
 .content ul li {
     list-style:none;
-    border-bottom:1px solid #d6dde0;
+    border-bottom:1px solid #ff0000;
     padding-top:15px;
     padding-bottom:15px;
     font-size:13px;
 }
+.content ul li:hover {background-color:#eee;}
 .content ul li a {
     text-decoration:none;
     color:#3e4346;
