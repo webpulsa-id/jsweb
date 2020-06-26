@@ -20,27 +20,9 @@ jQuery(function($) {
       tracks = [
         {
           track: 1,
-          file: "thomas-arya-full-album-2020/Thomas%20Arya%20Full%20Album%202020",
-          name: "Full Album 2020",
-          length: "Thomas Arya"
-        },
-        {
-          track: 2,
-          name: "Sangkutan Hati",
-          length: "Ipank & Kintani",
-          file: "ipankkintanisangkutanhati_201912/Ipank%20%26%20Kintani%20-%20Sangkutan%20Hati"
-        },
-        {
-          track: 3,
-          name: "Satu Hati Sampai Mati",
-          length: "Thomas arya ft Elsa pitaloka",
-          file: "ThomasArya-17April2020/Thomas%20arya%20ft%20Elsa%20pitaloka%20-%20Satu%20Hati%20Sampai%20Mati"
-        },
-        {
-          track: 4,
-          name: "kecewa dalam setia",
-          length: "Thomas arya",
-          file: "ThomasArya-17April2020/Thomas%20arya%20_%20kecewa%20dalam%20setia_slowrock%20terbaru%20cover%20liryk%20musik%20%28cover%29"
+          name: "cinta itu kamu",
+          length: "Geisha",
+          file: "webpulsa/GEISHA%20-%20Cinta%20Itu%20Kamu"
         },
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
@@ -52,7 +34,7 @@ jQuery(function($) {
         } else {
           trackNumber = "" + trackNumber;
         }
-        $("#plMng").append(
+        $("#plIndo").append(
           '<li><div class="plItem"><div class="plNum">' +
             trackNumber +
             '.</div><div class="plTitle">' +
@@ -113,7 +95,7 @@ jQuery(function($) {
           loadTrack(index);
         }
       }),
-      li = $("#plMng li").click(function() {
+      li = $("#plIndo li").click(function() {
         var id = parseInt($(this).index());
         if (id !== index) {
           playTrack(id);
@@ -121,7 +103,7 @@ jQuery(function($) {
       }),
       loadTrack = function(id) {
         $(".plSel").removeClass("plSel");
-        $("#plMng li:eq(" + id + ")").addClass("plSel");
+        $("#plIndo li:eq(" + id + ")").addClass("plSel");
         npTitle.text(tracks[id].name);
         index = id;
         audio.src = mediaPath + tracks[id].file + extension;

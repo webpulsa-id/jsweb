@@ -26,168 +26,144 @@ jQuery(function($) {
         },
         {
           track: 2,
-          name: "cinta itu kamu",
-          length: "Geisha",
-          file: "webpulsa/GEISHA%20-%20Cinta%20Itu%20Kamu"
-        },
-        {
-          track: 3,
           name: "Ujian akhir zaman",
           length: "Warlan Sukandar",
           file: "warlan-sukandar-ujian-akhir-zaman/Warlan%20Sukandar%20-%20Ujian%20akhir%20zaman"
         },
         {
-          track: 4,
-          name: "Sangkutan Hati",
-          length: "Ipank & Kintani",
-          file: "ipankkintanisangkutanhati_201912/Ipank%20%26%20Kintani%20-%20Sangkutan%20Hati"
-        },
-        {
-          track: 5,
-          name: "Satu Hati Sampai Mati",
-          length: "Thomas arya ft Elsa pitaloka",
-          file: "ThomasArya-17April2020/Thomas%20arya%20ft%20Elsa%20pitaloka%20-%20Satu%20Hati%20Sampai%20Mati"
-        },
-        {
-          track: 6,
-          name: "kecewa dalam setia",
-          length: "Thomas arya",
-          file: "ThomasArya-17April2020/Thomas%20arya%20_%20kecewa%20dalam%20setia_slowrock%20terbaru%20cover%20liryk%20musik%20%28cover%29"
-        },
-        {
-          track: 7,
+          track: 3,
           name: "Aisyah istri rasullulah",
           length: "Religi Terbaik",
           file: "webpulsa/Aisya%20istri%20rasulullah%20syakir%20daulay"
         },
         {
-          track: 8,
+          track: 4,
           file: "religi-terbaik/file_1585493768362",
           name: "Aisyah Istri Rasulullah",
           length: "Nissa"
         },
         {
-          track: 9,
+          track: 5,
           file: "religi-terbaik/file_1585493782621",
           name: "Aisyah Istri Rasulullah",
           length: "Ai Khodijah"
         },
         {
-          track: 10,
+          track: 6,
           file: "religi-terbaik/file_1585493796674",
           name: "Allahumma Labbaik",
           length: "Religi Terbaik"
         },
         {
-          track: 11,
+          track: 7,
           file: "religi-terbaik/file_1585493819949",
           name: "Allahummarhamna Bil Qur'an",
           length: "Religi Terbaik"
         },
         {
-          track: 12,
+          track: 8,
           file: "religi-terbaik/file_1585493839555",
           name: "Antasallam",
           length: "Religi Terbaik"
         },
         {
-          track: 13,
+          track: 9,
           file: "religi-terbaik/file_1585493851497",
           name: "Busyro Lana",
           length: "Religi Terbaik"
         },
         {
-          track: 14,
+          track: 10,
           file: "religi-terbaik/file_1585493867017",
           name: "I'tiraf",
           length: "Religi Terbaik"
         },
         {
-          track: 15,
+          track: 11,
           file: "religi-terbaik/file_1585493879730",
           name: "Laa ilaha illa Allaah",
           length: "Religi Terbaik"
         },
         {
-          track: 16,
+          track: 12,
           file: "religi-terbaik/file_1585493893420",
           name: "Man Ana",
           length: "Religi Terbaik"
         },
         {
-          track: 17,
+          track: 13,
           file: "religi-terbaik/file_1585493906775",
           name: "Muhammad Nabina",
           length: "Religi Terbaik"
         },
         {
-          track: 18,
+          track: 14,
           file: "religi-terbaik/file_1586050477637",
           name: "Aisyah Istri Rasulullah",
           length: "Cover Syakir Daulay"
           },
         {
-          track: 19,
+          track: 15,
           file:"religi-terbaik/file_1585493552477",
           name: "Rohman Ya Rohman",
           length: "Religi Terbaik"
         },
         {
-          track: 20,
+          track: 16,
           file:"religi-terbaik/file_1585493567823",
           name: "Sa'duna Fiddunya",
           length: "Religi Terbaik"
         },
         {
-          track: 21,
+          track: 17,
           file:"religi-terbaik/file_1585493583797",
           name: "Sholawat Nariyah",
           length: "Religi Terbaik"
         },
         {
-          track: 22,
+          track: 18,
           file:"religi-terbaik/file_1585493596933",
           name: "Sholawat Tasmauni Robbah",
           length: "Religi Terbaik"
         },
         {
-          track: 23,
+          track: 19,
           file:"religi-terbaik/file_1585493609407",
           name: "Shooq",
           length: "Religi Terbaik"
         },
         {
-          track: 24,
+          track: 20,
           file:"religi-terbaik/file_1585493621721",
           name: "Wahisna",
           length: "Neng Nada"
         },
         {
-          track: 25,
+          track: 21,
           file:"religi-terbaik/file_1585493656215",
           name: "Ya Asyiqol Musthofa",
           length: "Religi Terbaik"
         },
         {
-          track: 26,
+          track: 22,
           file:"religi-terbaik/file_1585493676555",
           name: "Ya Ayyuhannabi",
           length: "Religi Terbaik"
         },
         {
-          track: 27,
+          track: 23,
           file:"religi-terbaik/file_1585493689005",
           name: "Ya Badrotim",
           length: "Religi Terbaik"
         },
         {
-          track: 28,
+          track: 24,
           file:"religi-terbaik/file_1585493701684",
           name: "Ya Syahidan",
           length: "Religi Terbaik"
         },
         {
-          track: 29,
+          track: 25,
           file:"religi-terbaik/file_1585493715283",
           name: "Yasir Lanaa",
           length: "Religi Terbaik"
