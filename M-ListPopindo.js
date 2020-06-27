@@ -20,14 +20,14 @@ jQuery(function($) {
       tracks = [
                 {
           track: 1,
-          file: "ilir7-2019/ilir-7-01",
-          name: "Salah Apa Aku",
+          file: "ilir7-2019/ilir-7-02",
+          name: "Cinta Terlarang",
           length: "ilir 7"
         },
         {
           track: 2,
-          file: "ilir7-2019/ilir-7-02",
-          name: "Cinta Terlarang",
+          file: "ilir7-2019/ilir-7-01",
+          name: "Salah Apa Aku",
           length: "ilir 7"
         },
         {
