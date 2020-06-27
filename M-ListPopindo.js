@@ -22,7 +22,7 @@ jQuery(function($) {
           track: 1,
           file: "nano-separuhku/Nano-Separuhku",
           name: "Nano Separuhku | Cinta suci",
-          length: "ilir 7"
+          length: "Nano Band"
         },
         {
           track: 3,
