@@ -18,9 +18,75 @@ jQuery(function($) {
       mediaPath = "https://archive.org/download/",
       extension = "",
       tracks = [
-        {
+                {
           track: 1,
-          name: "cinta itu kamu",
+          file: "ilir7-2019/ilir-7-01",
+          name: "Salah Apa Aku",
+          length: "ilir 7"
+        },
+        {
+          track: 2,
+          file: "ilir7-2019/ilir-7-02",
+          name: "Cinta Terlarang",
+          length: "ilir 7"
+        },
+        {
+          track: 3,
+          file: "ilir7-2019/ilir-7-03",
+          name: "Honey",
+          length: "ilir 7"
+        },
+        {
+          track: 4,
+          file: "ilir7-2019/ilir-7-04",
+          name: "Jangan Kau Coba",
+          length: "ilir 7"
+        },
+        {
+          track: 5,
+          file: "ilir7-2019/ilir-7-05",
+          name: "Jangan Nakal Sayang",
+          length: "ilir 7"
+        },
+        {
+          track: 6,
+          file: "ilir7-2019/ilir-7-06",
+          name: "Kekasih Gelap",
+          length: "ilir 7"
+        },
+        {
+          track: 7,
+          file: "ilir7-2019/ilir-7-07",
+          name: "Lemah Letih Lesu",
+          length: "ilir 7"
+        },
+        {
+          track: 8,
+          file: "ilir7-2019/ilir-7-08",
+          name: "Sakit Sungguh Sakit",
+          length: "ilir 7"
+        },
+        {
+          track: 9,
+          file: "ilir7-2019/ilir-7-09",
+          name: "Sandiwara",
+          length: "ilir 7"
+        },
+        {
+          track: 10,
+          file: "ilir7-2019/ilir-7-10",
+          name: "Sella Selli",
+          length: "ilir 7"
+        },
+        {
+          track: 11,
+          file: "ilir7-2019/ilir-7-11",
+          name: "Hormati Kekasih Mu",
+          length: "ilir 7"
+        },
+        {
+          track: 12,
+          name: "Cinta itu kamu",
           length: "Geisha",
           file: "webpulsa/GEISHA%20-%20Cinta%20Itu%20Kamu"
         },
