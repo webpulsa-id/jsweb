@@ -19,25 +19,37 @@ jQuery(function($) {
       extension = "",
       tracks = [
         {
-          track: 1,
+          track: 6,
+          name: "Ujian akhir zaman",
+          length: "Warlan Sukandar",
+          file: "warlan-sukandar-ujian-akhir-zaman/Warlan%20Sukandar%20-%20Ujian%20akhir%20zaman"
+        },
+        {
+          track: 5,
           file: "thomas-arya-full-album-2020/Thomas%20Arya%20Full%20Album%202020",
           name: "Full Album 2020",
           length: "Thomas Arya"
         },
         {
-          track: 2,
+          track: 4,
+          file: "rizal-karani/Ratok_Denai_Nan_Tingga",
+          name: "Ratok Denai Nan Tingga",
+          length: "Rizal Karani (Padang Laweh)"
+        },
+        {
+          track: 3,
           name: "Sangkutan Hati",
           length: "Ipank & Kintani",
           file: "ipankkintanisangkutanhati_201912/Ipank%20%26%20Kintani%20-%20Sangkutan%20Hati"
         },
         {
-          track: 3,
+          track: 2,
           name: "Satu Hati Sampai Mati",
           length: "Thomas arya ft Elsa pitaloka",
           file: "ThomasArya-17April2020/Thomas%20arya%20ft%20Elsa%20pitaloka%20-%20Satu%20Hati%20Sampai%20Mati"
         },
         {
-          track: 4,
+          track: 1,
           name: "kecewa dalam setia",
           length: "Thomas arya",
           file: "ThomasArya-17April2020/Thomas%20arya%20_%20kecewa%20dalam%20setia_slowrock%20terbaru%20cover%20liryk%20musik%20%28cover%29"
