@@ -1,3 +1,5 @@
+<script type='text/javascript'>
+ //<![CDATA[
 $('#noAdmin').val('0822-3547-8838');// WaCenter
 $('.whatsapp-btn').click(function () {
 $('#whatsapp').toggleClass('toggle');});
@@ -79,3 +81,5 @@ $('#whatsapp').toggleClass('toggle');});
 				return false;
 			}
 		}
+ //]]>
+ </script>
