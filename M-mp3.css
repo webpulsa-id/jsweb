@@ -207,7 +207,7 @@ audio {
   padding: 10px 0;
 }
 #plList li:hover {
-  background-color: #262223 ;
+  background-color: #262223;color:#fff ;
 }
 .plItem {
   position: relative;
