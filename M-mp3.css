@@ -152,7 +152,7 @@ p a:visited {
 /* Highlight Styles */
 ::selection {
   background-color: #262223;
-  color: #444;
+  color: #fff;
 }
 
 /* Audio Player Styles
