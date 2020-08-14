@@ -7,5 +7,8 @@ namereseller::before {
 }
 
 idreseller::before {
-	content: "KH000001";
+	content: "KH0001";
+}
+apkreseller::before {
+	content: "";
 }
