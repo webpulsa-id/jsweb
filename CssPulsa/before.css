@@ -16,6 +16,9 @@ padding: 0 1px 0 1px;
 	content: "562483";
 background:#fff;
 }
+pintrx::before {
+Content: "562483"
+}
 apkrs::before {
 	content: "";
 }
