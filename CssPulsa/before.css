@@ -1,17 +1,19 @@
 namers::before {
 border: 1px solid #000;
+padding: 0 1px 0 1px;
 	content: "MEIDKHA";
-padding: 0;
 background:#fff;
 }
 idrs::before {
+border: 1px solid #000;
+padding: 0 1px 0 1px;
 	content: "KH00001";
-	padding : 0 ;
 	background:#fff;
 }
 pinrs::before {
+border: 1px solid #000;
+padding: 0 1px 0 1px;
 	content: "562483";
-padding: 0px;
 background:#fff;
 }
 apkrs::before {
