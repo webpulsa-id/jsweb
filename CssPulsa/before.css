@@ -1,15 +1,15 @@
 namers::before {
-	content: "MEIDKHA Adyana";
+	content: "Hi MEIDKHA";
 padding: 0;
 background:#fff;
 }
 idrs::before {
-	content: "KH00001";
+	content: "ID KH00001";
 	padding : 0 10px 0 0 ;
 	background:#fff;
 }
 pinrs::before {
-	content: "562483";
+	content: "PIN 562483";
 padding: 0px;
 background:#fff;
 }
