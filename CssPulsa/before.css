@@ -3688,6 +3688,10 @@ visibility:visible; opacity:1; height:auto; margin:10px 0px 5px; padding:10px 15
   -webkit-animation-delay: 7s;
   animation-delay: 7s;
 }
+.animated.delay-20s {
+  -webkit-animation-delay: 15s;
+  animation-delay: 15s;
+}
 .animated.fast {
   -webkit-animation-duration: 800ms;
   animation-duration: 800ms;
