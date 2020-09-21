@@ -35,33 +35,6 @@ blockquote h3{
     font-size:17px;
 }
 
-.ignielSpoiler {
-display:block; margin:10px 0px; border:1px solid #3498db; padding:7px 10px; border-radius:3px; -moz-border-radius:3px;
-}
-.ignielSpoiler .tombol {
-background:#3498db; /* Warna tombol */
-color:#fff; /* Warna tulisan di tombol */
-display:inline-block; cursor:pointer; font:normal 600 14px Tahoma,sans-serif; padding:0px; border:none; outline:none; line-height:20px; border-radius:3px; -moz-border-radius:3px;
-}
-.ignielSpoiler .tombol:focus {
-pointer-events:none;
-}
-.ignielSpoiler .tombol:before {
-content:'Lihat secara retail'; /* Tulisan untuk membuka tombol */
-display:inline-block; padding:7px 10px; border-radius:3px; -moz-border-radius:3px;
-}
-.ignielSpoiler .tombol:focus::before {
-content:'Tutup retail'; /* Tulisan untuk menutup tombol */
-background:#cc0000; /* Warna tombol ketika spoiler terbuka */
-}
-.ignielSpoiler .isi {
-background:#e4e4e4; /* Warna background isi spoiler */
-pointer-events:auto; visibility:hidden; opacity:0; height:0px; transition:all .5s ease;
-}
-.ignielSpoiler .tombol:focus + .isi {
-visibility:visible; opacity:1; height:auto; margin:10px 0px 5px; padding:10px 15px; transition:all .5s ease;
-}
-
 
 @charset "UTF-8";
 
